@@ -1,0 +1,43 @@
+{
+  "manifest_version": "1.0",
+  "org": "BerriAI",
+  "repo": "liteadmin-mcp",
+  "versions": [
+    {
+      "commit": "d35ec9c19c117d4c50cc1eccf6ce1296aac25a1a",
+      "parsed_at": "2026-10-10T07:34:41.106486+00:00",
+      "filetree": "filetree/d35ec9c19c117d4c50cc1eccf6ce1296aac25a1a.nq.gz",
+      "blobs": [
+        "blob/6268e81d1d05870b84d73a7104703e37d81a6662.nq.gz",
+        "blob/5a49a2ff9da71863a045f43c306c7e799bbc803d.nq.gz",
+        "blob/c4d3f2370f69e56dc4b28ec5cb0fa55073014da5.nq.gz",
+        "blob/5d6fcb89b7e5b79f022a4e56998ed23c0c52dae4.nq.gz",
+        "blob/256fb5d74c9beaf828dac2185d51fddc05f12998.nq.gz",
+        "blob/aeb0d60ce5559c15ddaec218a2eb0823d834bc7b.nq.gz",
+        "blob/881340d754c43f8e73c06bd4fd344ed998e47723.nq.gz",
+        "blob/a047705c27e243fb78d71bba00311e5353a4f7eb.nq.gz",
+        "blob/d290168d841311e50d969818fc03fb7adb35e3a4.nq.gz",
+        "blob/358e7bdd9f4ffd78022cf7b6ab7ceb62ab8a4f2f.nq.gz",
+        "blob/1ab71155b49d376b6ef48bb5f9745617db9ff0fb.nq.gz",
+        "blob/a818e16eafdef268ff06a5efb82a461c165f52bc.nq.gz",
+        "blob/5dd7d8565d58a67ac1b76738562b6be230c9c407.nq.gz",
+        "blob/3a54fa53dfbced3044b9db1299290479fb2ab988.nq.gz",
+        "blob/b227ae2859262958b3f64eb603db3605061144bd.nq.gz",
+        "blob/884221e30c808ea7bdac63cedc0a2bf1c78f1877.nq.gz",
+        "blob/92ddc3b397a143ebc4441096428c6c532f1653fe.nq.gz",
+        "blob/bf1bc22c743298874850f8921dc0555e7c60285a.nq.gz",
+        "blob/a84e36c3056dae7f6b6565b336ccabde9e8a2819.nq.gz",
+        "blob/868cb4fe71ba6ad6778d5566bb301ae375defdac.nq.gz",
+        "blob/304eac333f5555a776c6bd64bc8b93a8dc6a9bd6.nq.gz",
+        "blob/8faf0318073d57c783503b5ca4db29e332612eca.nq.gz",
+        "blob/956088627260cda4589e607ae2cfdf331df9a8cf.nq.gz",
+        "blob/6ec758cd6779f179214f740bba6e5fa6fc097210.nq.gz",
+        "blob/a6776a48cce42100aa6538c2804e9716db53592f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
