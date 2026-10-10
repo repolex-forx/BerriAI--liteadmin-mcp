@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/BerriAI/liteadmin-mcp/commit/d35ec9c19c117d4c50cc1eccf6ce1296aac25a1a",
       "git:hexsha": "d35ec9c19c117d4c50cc1eccf6ce1296aac25a1a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/BerriAI/liteadmin-mcp/commit/5de8ec6a768ad7b238a53054b03a12a5266ca079",
