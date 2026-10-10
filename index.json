@@ -1,0 +1,11 @@
+{
+  "org": "BerriAI",
+  "repo": "liteadmin-mcp",
+  "versions": [
+    {
+      "commit": "d35ec9c19c117d4c50cc1eccf6ce1296aac25a1a",
+      "tag": "",
+      "parsed_at": "2026-10-10T07:37:14.979418+00:00"
+    }
+  ]
+}
